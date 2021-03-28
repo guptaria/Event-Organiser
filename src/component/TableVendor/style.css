@@ -1,0 +1,16 @@
+
+      /* table {
+        border-style: ridge;
+        border-width: 3px;
+        border-color:orange;
+        background-color: #d9d9d9;
+      } */
+      tr {
+        border: 1px solid #095484;
+      }
+      /* td {
+        border: 1px groove #1c87c9;
+      } */
+   /* td{
+    class="is-flex is-justify-content-space-between is-align-items-center">
+   } */
